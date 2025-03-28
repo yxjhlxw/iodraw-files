@@ -324,6 +324,15 @@
         <mxCell id="CNk_FKlrL3A78hNu2M-t-30" value="成品参数检测，后端电路结合" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" vertex="1" parent="1">
           <mxGeometry x="429" y="672.5" width="130" height="59" as="geometry" />
         </mxCell>
+        <mxCell id="CNk_FKlrL3A78hNu2M-t-31" style="edgeStyle=none;rounded=0;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;endSize=7.81;jettySize=auto;orthogonalLoop=1;strokeColor=#67AB9F;strokeWidth=2;fillColor=#7C5AB8;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;entryX=0;entryY=0.5;" edge="1" parent="1" target="CNk_FKlrL3A78hNu2M-t-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-322.5" y="243" as="sourcePoint" />
+            <mxPoint x="-562.5" y="438" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CNk_FKlrL3A78hNu2M-t-32" value="激光刻蚀？飞秒激光？" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-691.5" y="363" width="130" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
