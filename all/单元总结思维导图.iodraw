@@ -43,7 +43,7 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-9" style="edgeStyle=none;rounded=0;html=1;exitX=1;exitY=0.5;entryX=1;entryY=0.5;startArrow=none;startFill=0;endArrow=none;endFill=0;endSize=7.81;jettySize=auto;orthogonalLoop=1;strokeColor=#67AB9F;strokeWidth=2;fillColor=#7C5AB8;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" source="HZyqP8lNtJwYMgKbey4X-10" target="HZyqP8lNtJwYMgKbey4X-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-10" value="单元三" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#1780C7;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-10" value="MEMS陀螺" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#1780C7;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="199" y="152" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-11" style="edgeStyle=none;curved=1;html=1;exitX=1;exitY=0.5;entryX=0.25;entryY=0;startArrow=none;startFill=0;endArrow=none;endFill=0;endSize=7.81;jettySize=auto;orthogonalLoop=1;strokeColor=#67AB9F;strokeWidth=2;fillColor=#7C5AB8;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" source="HZyqP8lNtJwYMgKbey4X-47" target="HZyqP8lNtJwYMgKbey4X-4" edge="1">
@@ -200,7 +200,7 @@
             <mxPoint x="430" y="-73" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-45" value="HRG" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#1780C7;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-45" value="μHRG" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#1780C7;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="199" y="-248" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-46" value="单元四" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#1780C7;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
