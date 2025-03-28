@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CNk_FKlrL3A78hNu2M-t-8" style="edgeStyle=none;rounded=0;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;endSize=7.81;jettySize=auto;orthogonalLoop=1;strokeColor=#67AB9F;strokeWidth=2;fillColor=#7C5AB8;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;exitX=-0.007;exitY=0.503;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="CNk_FKlrL3A78hNu2M-t-8" style="edgeStyle=none;rounded=0;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;endSize=7.81;jettySize=auto;orthogonalLoop=1;strokeColor=#67AB9F;strokeWidth=2;fillColor=#7C5AB8;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;exitX=-0.007;exitY=0.503;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CNk_FKlrL3A78hNu2M-t-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-540" y="-120" as="targetPoint" />
             <mxPoint x="-321.00000000000006" y="-217.81999999999994" as="sourcePoint" />
@@ -279,7 +279,7 @@
           <mxGeometry x="479" y="316.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CNk_FKlrL3A78hNu2M-t-9" value="高精度对齐组装、真空封装" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="-691.5" y="-230" width="130" height="45" as="geometry" />
+          <mxGeometry x="-691.5" y="-143" width="130" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
