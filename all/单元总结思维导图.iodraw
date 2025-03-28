@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="piCVT0GnAEzMvJrsj3AD" name="Page-1">
-    <mxGraphModel dx="2620" dy="2274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1437" dy="1545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,19 +195,19 @@
           <mxGeometry x="-689" y="303" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-35" value="种类很多，分一下类，针对梳齿状多学学检测原理，与该单位之前招标相关" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="430" y="23" width="130" height="45" as="geometry" />
+          <mxGeometry x="430" y="23" width="130" height="97" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-36" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="430" y="90" width="130" height="45" as="geometry" />
+          <mxGeometry x="430" y="230" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-37" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="429" y="161" width="130" height="45" as="geometry" />
+          <mxGeometry x="429" y="301" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-38" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="429" y="230.5" width="130" height="45" as="geometry" />
+          <mxGeometry x="429" y="370.5" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-39" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="430" y="303" width="130" height="45" as="geometry" />
+          <mxGeometry x="430" y="443" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-40" style="edgeStyle=none;rounded=0;html=1;exitX=1;exitY=0.5;startArrow=none;startFill=0;endArrow=none;endFill=0;endSize=7.81;jettySize=auto;orthogonalLoop=1;strokeColor=#67AB9F;strokeWidth=2;fillColor=#7C5AB8;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;entryX=0.008;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HZyqP8lNtJwYMgKbey4X-45" edge="1" target="HZyqP8lNtJwYMgKbey4X-61">
           <mxGeometry relative="1" as="geometry">
