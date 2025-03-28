@@ -203,8 +203,8 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-37" value="是否有必要再学学icepack？做一下器件热仿真" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="430" y="243" width="130" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-38" value="与HRG一样，详细的每一步加工过程，指从晶圆到可以检测加速度的成品器件的每一步" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="430" y="336" width="130" height="54" as="geometry" />
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-38" value="与HRG一样，详细的每一步加工过程，指从晶圆到可以检测加速度的成品器件的每一步，熟悉一下怎么完成成品以及检测的" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="430" y="336" width="130" height="134" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-39" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" parent="1" vertex="1">
           <mxGeometry x="430" y="540" width="130" height="45" as="geometry" />
