@@ -206,7 +206,7 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-46" value="单元四" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#1780C7;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-321" y="152" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-47" value="单元一" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#1780C7;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-47" value="HRG" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#1780C7;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-321" y="-248" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-48" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
