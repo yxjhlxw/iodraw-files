@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="piCVT0GnAEzMvJrsj3AD" name="Page-1">
-    <mxGraphModel dx="1425" dy="1537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3033" dy="2529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,19 +240,19 @@
           <mxGeometry x="-54" y="-49" width="103" height="73" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-59" value="工作原理（是不是与HRG完全相同）" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="451" y="-490" width="130" height="45" as="geometry" />
+          <mxGeometry x="434.5" y="-584" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-60" value="主要由哪几部分组成，怎样与电路连接使用" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999 ;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="451" y="-428" width="130" height="60" as="geometry" />
+          <mxGeometry x="434.5" y="-522" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-61" value="详细的每一步加工过程，指从晶圆到可以检测加速度的成品器件的每一步" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="450" y="-353" width="130" height="100" as="geometry" />
+          <mxGeometry x="433.5" y="-447" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-62" value="谐振子的加工方法、参数、难控制的点、调研" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="450" y="-240" width="130" height="63" as="geometry" />
+          <mxGeometry x="433.5" y="-334" width="130" height="63" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-63" value="高真空、耐高温高压封装" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="451" y="-149.5" width="130" height="45" as="geometry" />
+          <mxGeometry x="434.5" y="-243.5" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-69" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="478" y="36" width="40" height="20" as="geometry" />
@@ -273,7 +273,7 @@
           <mxGeometry x="-691.5" y="-185" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="CNk_FKlrL3A78hNu2M-t-11" value="谐振子加工过程中，或者加工过程后怎样检测、补偿" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-91.5" width="130" height="45" as="geometry" />
+          <mxGeometry x="433.5" y="-185.5" width="130" height="61.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
