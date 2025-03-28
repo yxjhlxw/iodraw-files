@@ -201,10 +201,10 @@
           <mxGeometry x="430" y="140" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-37" value="是否有必要再学学icepack？做一下器件热仿真" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="430" y="243" width="130" height="45" as="geometry" />
+          <mxGeometry x="430" y="243" width="130" height="77" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-38" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="429" y="370.5" width="130" height="45" as="geometry" />
+          <mxGeometry x="430" y="336" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-39" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" parent="1" vertex="1">
           <mxGeometry x="430" y="443" width="130" height="45" as="geometry" />
