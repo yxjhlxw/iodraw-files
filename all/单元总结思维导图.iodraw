@@ -197,8 +197,8 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-35" value="种类很多，分一下类，针对梳齿状多学学检测原理，与该单位之前招标相关" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="430" y="23" width="130" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-36" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="430" y="230" width="130" height="45" as="geometry" />
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-36" value="上手仿真一下，如果是必需的那就计算一下灵敏度什么的" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="430" y="140" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-37" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="429" y="301" width="130" height="45" as="geometry" />
