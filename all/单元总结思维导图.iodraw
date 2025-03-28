@@ -101,7 +101,7 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-22" value="针对每一组成部分的关键工艺难点" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" parent="1" vertex="1">
           <mxGeometry x="-691" y="-170.5" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-23" value="组装、封装" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" parent="1" vertex="1">
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-23" value="高精度对齐组装、真空封装" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" parent="1" vertex="1">
           <mxGeometry x="-690" y="-98" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-24" style="edgeStyle=none;rounded=0;html=1;exitX=0;exitY=0.5;startArrow=none;startFill=0;endArrow=none;endFill=0;endSize=7.81;jettySize=auto;orthogonalLoop=1;strokeColor=#67AB9F;strokeWidth=2;fillColor=#7C5AB8;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;entryX=1;entryY=0.5;" parent="1" target="HZyqP8lNtJwYMgKbey4X-30" edge="1">
