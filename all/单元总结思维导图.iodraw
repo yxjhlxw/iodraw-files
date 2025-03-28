@@ -329,7 +329,7 @@
           <mxGeometry x="428" y="581" width="130" height="59" as="geometry" />
         </mxCell>
         <mxCell id="CNk_FKlrL3A78hNu2M-t-27" value="针对关键工艺深硅刻、晶圆级键合进行学习" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-500" width="130" height="45" as="geometry" />
+          <mxGeometry x="430" y="-500" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
