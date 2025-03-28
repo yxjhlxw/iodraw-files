@@ -230,9 +230,6 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-54" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-645" y="-158" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-55" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-646" y="-228" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-58" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;陀螺&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-54" y="-49" width="103" height="73" as="geometry" />
         </mxCell>
