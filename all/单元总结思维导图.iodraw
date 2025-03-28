@@ -294,7 +294,7 @@
           <mxGeometry x="428" y="-770.5" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="CNk_FKlrL3A78hNu2M-t-19" value="可以稍微了解一些怎样与后面的ASIC电路链接在一起的" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="428" y="-185" width="130" height="78.5" as="geometry" />
+          <mxGeometry x="429" y="-185" width="130" height="78.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
