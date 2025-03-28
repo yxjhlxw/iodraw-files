@@ -272,7 +272,7 @@
         <mxCell id="CNk_FKlrL3A78hNu2M-t-9" value="针对谐振子的检测、补偿" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" vertex="1" parent="1">
           <mxGeometry x="-691.5" y="-185" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="CNk_FKlrL3A78hNu2M-t-11" value="高真空、耐高温高压封装" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" vertex="1" parent="1">
+        <mxCell id="CNk_FKlrL3A78hNu2M-t-11" value="谐振子加工过程中，或者加工过程后怎样检测、补偿" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" vertex="1" parent="1">
           <mxGeometry x="450" y="-91.5" width="130" height="45" as="geometry" />
         </mxCell>
       </root>
