@@ -243,7 +243,7 @@
           <mxGeometry x="450" y="-353" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-62" value="谐振子的加工方法、参数、难控制的点、调研" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="450" y="-223" width="130" height="45" as="geometry" />
+          <mxGeometry x="450" y="-240" width="130" height="63" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-63" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelBackgroundColor=none;fillColor=#009999;gradientColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;direction=west;" parent="1" vertex="1">
           <mxGeometry x="451" y="-149.5" width="130" height="45" as="geometry" />
